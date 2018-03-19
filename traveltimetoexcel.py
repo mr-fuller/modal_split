@@ -1,5 +1,5 @@
 from traveltimebymode import traveltimebymode
-from mi_sd import mi_sd
+
 import pandas as pd
 import os
 from datetime import datetime

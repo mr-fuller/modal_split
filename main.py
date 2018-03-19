@@ -2,7 +2,7 @@ from modalsplit import modalsplit
 from nationstatemodalsplit import nationstatemodalsplit
 from modalsplittoexcel import modalsplittoexcel
 from nationstatemodalsplittoexcel import nationstatemodalsplittoexcel
-from mi_sd import mi_sd
+
 import pandas as pd
 import os
 from datetime import datetime

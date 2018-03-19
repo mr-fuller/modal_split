@@ -1,6 +1,6 @@
 # from modalsplit import modalsplit
 # from nationstatemodalsplit import nationstatemodalsplit
-from mi_sd import mi_sd
+
 import pandas as pd
 import os
 from datetime import datetime
