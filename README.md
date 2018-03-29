@@ -5,10 +5,10 @@ Data retrieved using the American Community Survey API from the Census Bureau an
 
 # How to Use
 Create Python environment with:
-*Python 3
-*pandas
-*os
-*requests
-*numpy
+* Python 3
+* pandas
+* os
+* requests
+* numpy
 
 Save all python files in the same directory and run 'main.py' in your python environment.
